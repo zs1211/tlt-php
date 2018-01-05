@@ -1,5 +1,5 @@
 <?php
 return array(
-    'version'=>9,
-    'playTimeSeconds'=>1
+    'version'=>5,
+    'playTimeSeconds'=>0.1
 );
